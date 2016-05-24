@@ -7,8 +7,8 @@ import Steps.Steps;
 
 public class AutoTests {
     private Steps steps;
-    private final String USERNAME = "ffaannkkyy@rambler.ru";
-    private final String PASSWORD = "testonline";
+    private final String USERNAME = "Vadim_94";
+    private final String PASSWORD = "9897820";
     private final String name = "automation_test";
     private final String searchworld = "холодильник";
     private final String TEXT = "TEST NG";
